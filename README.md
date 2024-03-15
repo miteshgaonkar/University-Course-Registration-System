@@ -21,10 +21,12 @@ Additionally, it includes different types of courses, such as lecture courses, s
 2. Navigate to the project directory: `cd university-course-registration`
 
 3. Compile and run the main class `CourseRegistrationSystem.java`.
+
 `javac CourseRegistrationSystem.java`
+
 `java CourseRegistrationSystem`
 
-4. Follow the prompts in the console to interact with the course registration system.
+5. Follow the prompts in the console to interact with the course registration system.
 
 ## Project Structure
 
